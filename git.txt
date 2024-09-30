@@ -1,1 +1,8 @@
 git status - check files status
+git add fileName Or (. - All Files)
+git commit -m "Message"
+git push -u origin main 
+(origin - remote repo name)
+(main - Branch name)
+
+Local Changes -- Staged -- Commit -- Push
