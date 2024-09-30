@@ -6,3 +6,5 @@ git push -u origin main
 (main - Branch name)
 
 Local Changes -- Staged -- Commit -- Push
+
+git pull - get latest changes from github
